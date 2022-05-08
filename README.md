@@ -21,8 +21,12 @@ The aim of this project is to develop a robotic vacuum cleaner which uses Force 
 The objective of this project are shown as follows:
 
 i. Research about the working principle and type of force sensors available
+
 ii. Identify the most appropriate components to construct the vacuum cleaner 
+
 robot such as the sensor, motor, microcontroller, control circuit, fan and 
 software, etc
+
 iii. Write algorithm that control the movement of vacuum cleaner robot 
+
 iv. Assemble the hardware components according to the circuit diagram
