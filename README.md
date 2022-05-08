@@ -1,6 +1,6 @@
 # Final-Year-Project
 
-Tilte: Using Word2Vec-LDA-Word Mover Distance for Comparing the Patterns of Information Seeking and Sharing during the COVID-19 Pandemic
+Title: Using Word2Vec-LDA-Word Mover Distance for Comparing the Patterns of Information Seeking and Sharing during the COVID-19 Pandemic
 
 This study intends to answer the following research questions 
 through a Malaysian case study: 
