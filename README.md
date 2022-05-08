@@ -5,7 +5,7 @@
 
 This study intends to answer the following research questions through a Malaysian case study: 
 
-*i.Does public information-seeking has similar 
+*i. Does public information-seeking has similar 
 patterns as information-sharing on social media during the 
 COVID-19 pandemic?*
 
