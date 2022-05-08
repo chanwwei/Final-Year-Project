@@ -11,3 +11,5 @@ COVID-19 pandemic?*
 
 *ii. Do the government announcements show aligned 
 response to the public's interests through information-seeking and sharing during the COVID-19 pandemic*
+
+**Source Codes provide upon request**
