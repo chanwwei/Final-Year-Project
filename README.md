@@ -2,7 +2,8 @@
 
 ## Bachelor(Hons) of Business Analytics
 **Title: Using Word2Vec-LDA-Word Mover Distance for Comparing the Patterns of Information Seeking and Sharing during the COVID-19 Pandemic**
-Programming Language: Python
+
+- Programming Language: Python
 
 This study intends to answer the following research questions through a Malaysian case study: 
 
@@ -17,7 +18,8 @@ response to the public's interests through information-seeking and sharing durin
 
 ## Diploma in Information Technology 
 **Title: The Vacuum Cleaner Robot 2.0 - FSR-based Robotic Vacuum Cleaner**
-Programming Language: Arduino
+
+- Programming Language: Arduino
 
 The aim of this project is to develop a robotic vacuum cleaner which uses Force Sensing Resistor (FSR) as obstacle detection sensor to carry out cleaning task.
 The objective of this project are shown as follows:
