@@ -1,6 +1,6 @@
 # Final-Year-Project
 
-## Bachelor(Hons) of Business Analytics
+## BSc (Hons) Business Analytics
 **Title: Using Word2Vec-LDA-Word Mover Distance for Comparing the Patterns of Information Seeking and Sharing during the COVID-19 Pandemic**
 
 - Programming Language: Python
